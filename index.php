@@ -87,12 +87,12 @@ class Test{
     }
 
      public function show(){
-        echo 'Hello World <br>';
-     }
+        echo 'Hello Everyone <br>';
+    }
 
      public function greetings(){
         echo 'Good Morning <br>';
-     }
+    }
 } 
 
 $object = new Test(200,200);
